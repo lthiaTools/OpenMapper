@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.web2app.MainActivity" >
+
+    <item android:id="@+id/action_home"
+          android:icon="@drawable/ic_action_home"
+          android:title="@string/home"
+          android:showAsAction="ifRoom"/>
+    
+    <item android:id="@+id/action_back"
+          android:icon="@drawable/ic_action_back"
+          android:title="@string/back"
+          android:showAsAction="ifRoom"/>
+    
+    <item android:id="@+id/action_forward"
+          android:icon="@drawable/ic_action_forward"
+          android:title="@string/forward"
+          android:showAsAction="ifRoom"/>
+
+    
+</menu>
