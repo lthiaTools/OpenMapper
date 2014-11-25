@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Web2App</string>
+    <string name="web_url">file:///android_asset/simple-map.html</string>
+    <string name="home">Home</string>
+    <string name="forward">Forward</string>
+    <string name="back">Back</string>
+
+</resources>
